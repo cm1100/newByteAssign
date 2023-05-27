@@ -2,6 +2,7 @@
 
 ### ARCHITECTURE
 #### Just a simple table containing hashed url with its usage limit and used count
+#### Used Django Rest Framework for the same
 
 ### COMPILE PROJECT
     git clone https://github.com/cm1100/newByteAssign.git
